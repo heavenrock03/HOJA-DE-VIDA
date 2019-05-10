@@ -1,0 +1,19 @@
+body{ 
+color: #000; 
+font-family: Georgia, "Times New Roman", serif; 
+font-size:10px;
+}
+
+h1 { 
+color: navy; 
+background-color: green;
+}
+
+p {
+	
+	margin: 6em;
+	border: solid 1px;
+	padding: 2em;
+	
+	
+}	
